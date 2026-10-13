@@ -106,6 +106,7 @@ export default function RootLayout({
               />
             }
             links={[
+              { label: "FAQ", href: "/faq" },
               { label: "Privacy", href: "/privacy" },
               {
                 label: "Terms of Use",
